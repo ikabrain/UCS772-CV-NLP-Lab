@@ -1,22 +1,22 @@
-# Subject Laboratory (UXXXXXP) — BE-COE, Semester VI (202X)
+# Data Science: Computer Vision & NLP Laboratory (UCS772P) — BE-COE, Semester VII (2026)
 
 > **👤 Student:** Ikansh Mahajan  
 > **🪪 Roll No.:** 102303754  
-> **🧑🏽‍🏫 Instructor:** Teacher with [faculty details](https://csed.thapar.edu/faculty)  
-> **🏫 Batch:** 3C53
+> **🧑🏽‍🏫 Instructor:** [Dr. Maninder Kaur](https://csed.thapar.edu/facultydetails/OTY1)  
+> **🏫 Batch:** 4C36
 
 ---
 
 ### 📘 Overview
 
-This repository contains all **lab assignments, experiments, and mini-projects** completed as part of the **Machine Learning Laboratory (UXXXXXP)** course at Thapar Institute of Engineering & Technology, under the guidance of _Dr. ABC_.
+This repository contains all **lab assignments, experiments, and mini-projects** completed as part of the **Data Science: Computer Vision & NLP Laboratory (UCS772)** course under the elective of **Data Science** at Thapar Institute of Engineering & Technology, under the guidance of _Dr. Maninder Kaur_.
 
-### 🧠 Topics Covered
+### 🤖 Topics Covered
 
-- [x] `[Assignment 1 - Title 1](path_to_assign1)`
-- [x] `[Assignment 2 - Title 2](path_to_assign2)`
+- [ ] `[Assignment 1 - Title 1](path_to_assign1)`
+- [ ] `[Assignment 2 - Title 2](path_to_assign2)`
 - [ ] `[Assignment 3 - Title 3](path_to_assign3)`
-...
+- [ ] `[Assignment 4 - Title 4](path_to_assign4)`
 
 ---
 
