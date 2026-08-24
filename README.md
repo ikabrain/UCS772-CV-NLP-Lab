@@ -13,7 +13,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 
 ### 🤖 Topics Covered
 
-- [ ] `[Assignment 1 - Title 1](path_to_assign1)`
+- [ ] [Assignment 1 - Data Science Workflow](./NLP_assign1/NLP_assign1.ipynb)
 - [ ] `[Assignment 2 - Title 2](path_to_assign2)`
 - [ ] `[Assignment 3 - Title 3](path_to_assign3)`
 - [ ] `[Assignment 4 - Title 4](path_to_assign4)`
