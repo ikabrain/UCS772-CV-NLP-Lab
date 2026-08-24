@@ -1,8 +1,8 @@
 # Data Science: Computer Vision & NLP Laboratory (UCS772P) — BE-COE, Semester VII (2026)
 
-> **👤 Student:** Ikansh Mahajan  
-> **🪪 Roll No.:** 102303754  
-> **🧑🏽‍🏫 Instructor:** [Dr. Maninder Kaur](https://csed.thapar.edu/facultydetails/OTY1)  
+> **👤 Student:** Ikansh Mahajan
+> **🪪 Roll No.:** 102303754
+> **🧑🏽‍🏫 Instructor:** [Dr. Maninder Kaur](https://csed.thapar.edu/facultydetails/OTY1)
 > **🏫 Batch:** 4C36
 
 ---
@@ -13,10 +13,8 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 
 ### 🤖 Topics Covered
 
-- [x] [Assignment 1 - Data Science Workflow](./NLP_assign1/NLP_assign1.ipynb)
-- [ ] `[Assignment 2 - Title 2](path_to_assign2)`
-- [ ] `[Assignment 3 - Title 3](path_to_assign3)`
-- [ ] `[Assignment 4 - Title 4](path_to_assign4)`
+- [X] [Assignment 1 - Data Science Workflow](./NLP_assign1/NLP_assign1.ipynb)
+- [ ] [Assignment 2 - Organizing NLP data](./NLP_assign2/NLP_assign2.ipynb)
 
 ---
 
