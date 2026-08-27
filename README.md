@@ -16,7 +16,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [x] [Assignment 1 - Data Science Workflow](./NLP_assign1/NLP_assign1.ipynb)
 - [x] [Assignment 2 - Organizing NLP data](./NLP_assign2/NLP_assign2.ipynb)
 - [x] [Assignment 3 - Exploratory Data Analysis](./NLP_assign3/NLP_assign3.ipynb)
-- [ ] [Assignment 4 - Sentiment Analysis](./NLP_assign4/NLP_assign4.ipynb)
+- [x] [Assignment 4 - Sentiment Analysis](./NLP_assign4/NLP_assign4.ipynb)
 
 ---
 
