@@ -20,6 +20,11 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [ ] [Assignment 5 - Sentiment Analysis using advanced methods](./NLP_assign5/NLP_assign5.ipynb)
 - [ ] [Assignment 6 - Text Prediction using advanced method](./NLP_assign6/NLP_assign6.ipynb)
 
+### 📑 References
+
+- Dr Fridolin. (n.d.). RNN from Scratch [Video playlist]. YouTube. https://www.youtube.com/playlist?list=PLf_idrN5yDOU_AysIKs5aOaudy53Zoevc
+- Dr Fridolin. (n.d.). LSTM from Scratch [Video playlist]. YouTube. https://www.youtube.com/playlist?list=PLf_idrN5yDOX_y2O3fowt6PmDmzsxpHXg
+
 ---
 
 ### ⚠️ NOTE
