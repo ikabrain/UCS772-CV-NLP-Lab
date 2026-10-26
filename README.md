@@ -18,7 +18,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [x] [Assignment 3 - Exploratory Data Analysis](./NLP_assign3/NLP_assign3.ipynb)
 - [x] [Assignment 4 - Sentiment Analysis](./NLP_assign4/NLP_assign4.ipynb)
 - [x] [assignment 5 - sentiment analysis using advanced methods](./nlp_assign5/nlp_assign5.ipynb)
-- [ ] [Assignment 6 - Text Prediction using advanced method](./NLP_assign6/NLP_assign6.ipynb)
+- [x] [Assignment 6 - Text Prediction using advanced method](./NLP_assign6/NLP_assign6.ipynb)
 
 ### 📑 References
 
