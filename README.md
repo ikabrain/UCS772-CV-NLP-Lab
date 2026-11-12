@@ -19,7 +19,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - [x] [Assignment 4 - Sentiment Analysis](./NLP_CV_assign4/NLP_assign4.ipynb)
 - [x] [assignment 5 - sentiment analysis using advanced methods](./NLP_CV_assign5/nlp_assign5.ipynb)
 - [x] [Assignment 6 - Text Prediction using advanced method](./NLP_CV_assign6/NLP_assign6.ipynb)
-- [ ] [Assignment 7 - Face Detection](./NLP_CV_assign7/CV_assign7.ipynb)
+- [x] [Assignment 7 - Face Detection](./NLP_CV_assign7/CV_assign7.ipynb)
 - [ ] [Assignment 8 - Face Recognition](./NLP_CV_assign8/CV_assign8.ipynb)
 
 ### 📑 References
