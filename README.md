@@ -28,6 +28,8 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - Dr Fridolin. (n.d.). LSTM from Scratch [Video playlist]. YouTube. https://www.youtube.com/playlist?list=PLf_idrN5yDOX_y2O3fowt6PmDmzsxpHXg
 - Open Source Computer Vision Library. (n.d.). Cascade classifier. OpenCV 5.0 Documentation. Retrieved June 7, 2026, from https://docs.opencv.org/5.0/tutorials_contrib/xobjdetect/cascade_classifier/cascade_classifier.html
 - The AI Guy. (2020, December 15). How to use webcam in Google Colab for images and video (Face detection) [Video]. YouTube. https://www.youtube.com/watch?v=YjWh7QvVH60
+- Chen, Z. (2022, November 15). OpenCV face detection: Cascade classifier vs. YuNet. OpenCV. https://opencv.org/opencv-face-detection-cascade-classifier-vs-yunet/
+
 ---
 
 ### ⚠️ NOTE
