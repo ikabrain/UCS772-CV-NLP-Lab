@@ -29,6 +29,7 @@ This repository contains all **lab assignments, experiments, and mini-projects**
 - Open Source Computer Vision Library. (n.d.). Cascade classifier. OpenCV 5.0 Documentation. Retrieved June 7, 2026, from https://docs.opencv.org/5.0/tutorials_contrib/xobjdetect/cascade_classifier/cascade_classifier.html
 - The AI Guy. (2020, December 15). How to use webcam in Google Colab for images and video (Face detection) [Video]. YouTube. https://www.youtube.com/watch?v=YjWh7QvVH60
 - Chen, Z. (2022, November 15). OpenCV face detection: Cascade classifier vs. YuNet. OpenCV. https://opencv.org/opencv-face-detection-cascade-classifier-vs-yunet/
+- OpenCV. (n.d.). DNN face detection and recognition [Documentation]. OpenCV documentation. Retrieved November 16, 2026, from https://docs.opencv.org/5.0/tutorials/dnn/dnn_face/dnn_face.html
 
 ---
 
