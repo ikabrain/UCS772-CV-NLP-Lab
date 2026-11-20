@@ -7,6 +7,8 @@
 
 ---
 
+<img src="promo.gif" alt="Promo GIF" style="display: block; margin: 0 auto; height: 500px;"/>
+
 ### 📘 Overview
 
 This repository contains all **lab assignments, experiments, and mini-projects** completed as part of the **Data Science: Computer Vision & NLP Laboratory (UCS772)** course under the elective of **Data Science** at Thapar Institute of Engineering & Technology, under the guidance of _Dr. Maninder Kaur_.
